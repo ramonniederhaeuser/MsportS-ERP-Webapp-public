@@ -1,0 +1,45 @@
+# Changelog
+All notable changes to this project will be documented in this file.
+
+- #Added# for new Features
+- #Changed# for changes in existing functionality
+- #Removed# for removed Features
+- #Fixed# for any bug fixes
+- #Security# in case of vulnerabilities
+
+## [Released]
+
+## [1.3.0] - 2021-12-29
+### Added
+
+- New Window added to create new Receipt manually
+- Backend Services added create-receipt.php
+
+## [1.2.0] - 2021-12-29
+### Changed
+
+- Changed Cronjob.php
+- Send Mail when Subscription is expired with all affected Customers
+- Only send Mail if som Customers are effected, otherwise not
+- Released on Server
+
+## [1.2.0] - 2021-12-29
+### Added
+
+- Add new Subscription Type and all functionality including Database
+-Released new Version Build 1.2.0
+
+
+## [1.1.0] - 2021-12-29
+### Added
+
+- Changed customer-create.php in /Server/customer
+- Added confirmation Mail functionality when new Customer is created
+- new File is being released and tested on Server
+
+
+## [1.0.0] - 2021-12-29
+### Release
+
+- First Release Build 1.0.0
+

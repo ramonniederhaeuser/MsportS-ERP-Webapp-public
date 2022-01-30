@@ -1,0 +1,20 @@
+.management-background {
+  height: 100vh;
+  background: linear-gradient(rgba(0, 0, 0, 0.9), rgba(0, 0, 0, 0.1)),
+    url("./images/hallbg.webp");
+}
+
+.settings-menu {
+  height: 100%;
+  border-top: 1px solid white;
+  border-left: 1px solid white;
+}
+
+.main-navigation-button {
+  width: 170px;
+}
+
+.darken {
+  background: black;
+  transition: 1s;
+}
